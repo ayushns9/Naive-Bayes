@@ -1,2 +1,2 @@
 # Naive-Bayes
-Implemented Naive Bayes algorithm and calculated error using leave one out cross validation on datasets taken from UCI,
+Implemented Naive Bayes algorithm and leave one cross out validation to find the accuracy of datasets where test data is not specified.
